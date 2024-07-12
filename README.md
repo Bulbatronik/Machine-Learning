@@ -1,4 +1,4 @@
-# Machine Learning 
+<h1 align="center">Machine Learning </h1>
 
 The repository provides a set of notebooks used during the *Machine Learning* course. The notebooks can easily be run on `Colab` and cover multiple topics. The topics include the state-of-art of `machine learning (ML)` and `reinforcement learning (RL)` algorithms. In particular, the topics covered by the notebooks are the following:
 
